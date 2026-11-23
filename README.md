@@ -1,13 +1,22 @@
-# Structorizer-Diagramme  
- 
-Struktogramme (Nassi-Shneiderman-Diagramme), erstellt im Rahmen der Umschulung zum Fachinformatiker Systemintegration (GFN).  
- 
-## Inhalt  
- 
-- **Hundealter.nsd** — Berechnung des Hundealters in Menschenjahren  
-- **Begrüßung.nsd** — Einfaches Begrüßungsprogramm  
-- **Portokosten.nsd** — Berechnung von Portokosten  
-- **Urlaubsanspruch.nsd** — Berechnung des Urlaubsanspruchs  
- 
----  
-*Hinweis: Bei der Fehlerbehebung und Vervollständigung einzelner Dateien wurde Claude (Anthropic) unterstützend eingesetzt.*  
+# Struktogramme (Nassi-Shneiderman-Diagramme)
+
+Struktogramme und Programmablaufpläne zu einfachen Algorithmen, erstellt mit Structorizer. Entstanden in der Umschulung zur Fachinformatikerin für Systemintegration (GFN).
+
+## Inhalt
+
+| Datei | Thema |
+|---|---|
+| `StructorizerNSD 1-10 Hundealter.nsd` | Hundealter in Menschenjahren berechnen |
+| `StructorizerNSD 2-10 Begrüßung.nsd` | Begrüßung abhängig von der Eingabe |
+| `StructorizerNSD 3-10 Portokosten.nsd` | Portokosten berechnen |
+| `StructorizerNSD 4-10 Urlaubsanspruch.nsd` | Urlaubsanspruch berechnen |
+| `Zwei Zahlen genau vergleichen.pap` | Programmablaufplan: Zahlenvergleich |
+| `Zahlenreiche ohne 7.pap` | Programmablaufplan: Zahlenreihe ohne die Ziffer 7 |
+
+## Werkzeug
+
+Structorizer (kostenlos, https://structorizer.fisch.lu)
+
+---
+
+*Hinweis: Einzelne Dateien wurden mit KI-Unterstützung (Claude) überarbeitet.*
